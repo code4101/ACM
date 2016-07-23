@@ -13,6 +13,12 @@
     <ClCompile Include="模板\基础模板.cpp">
       <Filter>模板</Filter>
     </ClCompile>
+    <ClCompile Include="模板\输入输出控制.cpp">
+      <Filter>模板</Filter>
+    </ClCompile>
+    <ClCompile Include="UVa\UVa210.cpp">
+      <Filter>UVa</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="模板\大数处理.java">

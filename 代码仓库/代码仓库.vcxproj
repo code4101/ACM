@@ -64,7 +64,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="UVa\UVa210.cpp" />
     <ClCompile Include="模板\基础模板.cpp" />
+    <ClCompile Include="模板\输入输出控制.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="模板\大数处理.java" />

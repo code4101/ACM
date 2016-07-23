@@ -1,4 +1,4 @@
-#include <algorithm>
+ï»¿#include <algorithm>
 #include <bitset>
 #include <cassert>
 #include <cmath>
@@ -18,10 +18,10 @@
 #include <vector>
 using namespace std;
 typedef long long LL;
-#define rep(i,b) for(int i=0; i<(b); i++)
+#define rep(i,b) for(int i=0; i<(b); ++i)
 #define foreach(i,a) for(__typeof((a).begin()) i=a.begin(); i!=(a).end(); ++i)
 
-// ÈÎÒâÕûÊýµÄ¶ÁÈëÍâ¹Ò 
+// ä»»æ„æ•´æ•°çš„è¯»å…¥å¤–æŒ‚ 
 template <typename T> inline int read(T& x) {
 	int c, sign = 1; x = 0;
 	while (!(((c = getchar()) >= '0'&&c <= '9') || c == '-')) if (c == EOF) return c;
