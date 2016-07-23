@@ -8,6 +8,9 @@
     <Filter Include="模板">
       <UniqueIdentifier>{fd0a63a9-c376-47ec-a67d-74651e437b9c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="XMUT">
+      <UniqueIdentifier>{83bdff91-4c8b-4ad5-8a13-5ea7468eaabb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="模板\基础模板.cpp">
@@ -18,6 +21,18 @@
     </ClCompile>
     <ClCompile Include="UVa\UVa210.cpp">
       <Filter>UVa</Filter>
+    </ClCompile>
+    <ClCompile Include="XMUT1312.cpp">
+      <Filter>XMUT</Filter>
+    </ClCompile>
+    <ClCompile Include="XMUT1314.cpp">
+      <Filter>XMUT</Filter>
+    </ClCompile>
+    <ClCompile Include="XMUT1315.cpp">
+      <Filter>XMUT</Filter>
+    </ClCompile>
+    <ClCompile Include="XMUT1316.cpp">
+      <Filter>XMUT</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
