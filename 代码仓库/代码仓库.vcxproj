@@ -65,10 +65,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="UVa\UVa210.cpp" />
-    <ClCompile Include="XMUT1312.cpp" />
-    <ClCompile Include="XMUT1314.cpp" />
-    <ClCompile Include="XMUT1315.cpp" />
-    <ClCompile Include="XMUT1316.cpp" />
+    <ClCompile Include="XMUT\XMUT1312.cpp" />
+    <ClCompile Include="XMUT\XMUT1314.cpp" />
+    <ClCompile Include="XMUT\XMUT1315.cpp" />
+    <ClCompile Include="XMUT\XMUT1316.cpp" />
     <ClCompile Include="模板\基础模板.cpp" />
     <ClCompile Include="模板\输入输出控制.cpp" />
   </ItemGroup>
