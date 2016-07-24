@@ -35,6 +35,7 @@ int main() {
 	//ios::sync_with_stdio(false);
 #ifndef ONLINE_JUDGE
 	freopen("in.txt", "r", stdin);
+	//freopen("res.txt", "w", stdout);
 #endif
 	return 0;
 }

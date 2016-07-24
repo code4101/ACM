@@ -11,6 +11,9 @@
     <Filter Include="XMUT">
       <UniqueIdentifier>{83bdff91-4c8b-4ad5-8a13-5ea7468eaabb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="其他OJ">
+      <UniqueIdentifier>{6e724156-4169-4cb4-accd-70a3fe9a501f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="模板\基础模板.cpp">
@@ -36,6 +39,9 @@
     </ClCompile>
     <ClCompile Include="UVa\UVa514.cpp">
       <Filter>UVa</Filter>
+    </ClCompile>
+    <ClCompile Include="其他OJ\POJ3356.cpp">
+      <Filter>其他OJ</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

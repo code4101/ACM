@@ -70,6 +70,7 @@
     <ClCompile Include="XMUT\XMUT1314.cpp" />
     <ClCompile Include="XMUT\XMUT1315.cpp" />
     <ClCompile Include="XMUT\XMUT1316.cpp" />
+    <ClCompile Include="其他OJ\POJ3356.cpp" />
     <ClCompile Include="模板\基础模板.cpp" />
     <ClCompile Include="模板\输入输出控制.cpp" />
   </ItemGroup>
