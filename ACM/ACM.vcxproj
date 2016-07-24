@@ -86,6 +86,7 @@
   <ItemGroup>
     <Text Include="..\wkDir\in.txt" />
     <Text Include="..\wkDir\out.txt" />
+    <Text Include="..\wkDir\res.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

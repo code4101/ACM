@@ -34,6 +34,9 @@
     <ClCompile Include="XMUT\XMUT1316.cpp">
       <Filter>XMUT</Filter>
     </ClCompile>
+    <ClCompile Include="UVa\UVa514.cpp">
+      <Filter>UVa</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="模板\大数处理.java">
