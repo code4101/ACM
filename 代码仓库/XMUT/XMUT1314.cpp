@@ -4,7 +4,6 @@ using namespace std;
 #define rep(i,b) for(int i=0; i<(b); ++i)
 typedef long long LL;
 
-// 任意整数的读入外挂 
 template <typename T> inline int read(T& x) {
 	int c, sign = 1; x = 0;
 	while (!(((c = getchar()) >= '0'&&c <= '9') || c == '-')) if (c == EOF) return c;
@@ -15,25 +14,18 @@ template <typename T> inline int read(T& x) {
 }
 
 int main() {
-#ifndef ONLINE_JUDGE
-	freopen("in.txt", "r", stdin);
-#endif
-	int T; cin >> T;
-
-	int n, k, s, t;
-	LL ans;
+	int T; read(T);
+	int n, k, s, t, ans;
 	while (T--) {
 		read(n); read(k);
-		s = 0;
-		ans = LL(n)*(n + 1) / 2;
+		ans = s = 0;
 		rep(i, n) {
 			read(t);
-			if (t <= k) ans -= ++s;
+			if (t <= k) ans += ++s;
 			else s = 0;
 		}
-		cout << ans << "\n";
+		cout << (LL(n)*(n + 1) >> 1) - ans << "\n";
 	}
 
 	return 0;
-
 }

@@ -43,6 +43,9 @@
     <ClCompile Include="其他OJ\POJ3356.cpp">
       <Filter>其他OJ</Filter>
     </ClCompile>
+    <ClCompile Include="UVa\UVa442.cpp">
+      <Filter>UVa</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="模板\大数处理.java">
