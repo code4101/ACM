@@ -52,6 +52,12 @@
     <ClCompile Include="XMUT\XMUT1149.cpp">
       <Filter>XMUT</Filter>
     </ClCompile>
+    <ClCompile Include="XMUT\XMUT1317.cpp">
+      <Filter>XMUT</Filter>
+    </ClCompile>
+    <ClCompile Include="XMUT\XMUT1718.cpp">
+      <Filter>XMUT</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="模板\大数处理.java">
