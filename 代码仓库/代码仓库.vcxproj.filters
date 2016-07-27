@@ -55,7 +55,10 @@
     <ClCompile Include="XMUT\XMUT1317.cpp">
       <Filter>XMUT</Filter>
     </ClCompile>
-    <ClCompile Include="XMUT\XMUT1718.cpp">
+    <ClCompile Include="XMUT\XMUT1318.cpp">
+      <Filter>XMUT</Filter>
+    </ClCompile>
+    <ClCompile Include="XMUT\XMUT1319.cpp">
       <Filter>XMUT</Filter>
     </ClCompile>
   </ItemGroup>
