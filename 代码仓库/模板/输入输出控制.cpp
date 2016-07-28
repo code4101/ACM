@@ -7,3 +7,11 @@ int my_gets(char* s) {
 	if (k == -1) k = 0; else gets(s + 1);
 	s[0] = k; return strlen(s);
 }
+
+//读取一个非空字符
+//其实也不算读取可见字符，只能说滤除空格、回车
+char getVisibleChar() {
+	char ch;
+	while (ch = getchar(), ch == ' ' || ch == '\n');
+	return ch;
+}
