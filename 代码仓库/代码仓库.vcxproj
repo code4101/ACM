@@ -65,6 +65,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="UVa\UVa11988.cpp" />
+    <ClCompile Include="UVa\UVa122.cpp" />
     <ClCompile Include="UVa\UVa12657.cpp" />
     <ClCompile Include="UVa\UVa210.cpp" />
     <ClCompile Include="UVa\UVa442.cpp" />
