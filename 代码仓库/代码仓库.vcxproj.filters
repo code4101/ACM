@@ -73,6 +73,12 @@
     <ClCompile Include="UVa\UVa122.cpp">
       <Filter>UVa</Filter>
     </ClCompile>
+    <ClCompile Include="XMUT\XMUT1322.cpp">
+      <Filter>XMUT</Filter>
+    </ClCompile>
+    <ClCompile Include="XMUT\XMUT1321.cpp">
+      <Filter>XMUT</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="模板\大数处理.java">

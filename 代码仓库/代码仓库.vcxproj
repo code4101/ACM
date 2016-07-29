@@ -79,6 +79,8 @@
     <ClCompile Include="XMUT\XMUT1317.cpp" />
     <ClCompile Include="XMUT\XMUT1318.cpp" />
     <ClCompile Include="XMUT\XMUT1319.cpp" />
+    <ClCompile Include="XMUT\XMUT1321.cpp" />
+    <ClCompile Include="XMUT\XMUT1322.cpp" />
     <ClCompile Include="其他OJ\POJ3356.cpp" />
     <ClCompile Include="模板\基础模板.cpp" />
     <ClCompile Include="模板\基础模板1.cpp" />
