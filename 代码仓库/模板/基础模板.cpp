@@ -19,7 +19,11 @@
 using namespace std;
 typedef long long LL;
 #define rep(i,b) for(int i=0; i<(b); ++i)
+#ifdef _MSC_VER
 #define foreach(i,a) for(decltype((a).begin()) i=a.begin(); i!=(a).end(); ++i)
+#else
+#define foreach(i,a) for(__typeof((a).begin()) i=a.begin(); i!=(a).end(); ++i)
+#endif
 
 int main() {
 	//ios::sync_with_stdio(false);
