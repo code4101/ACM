@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACM", "ACM\ACM.vcxproj", "{013BA1C0-B69F-4318-A6E7-A3ECA80D8A51}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "随机数据", "随机数据\随机数据.vcxproj", "{5DB2B291-FDB8-4792-BC0C-F3893CC91776}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -17,10 +15,6 @@ Global
 		{013BA1C0-B69F-4318-A6E7-A3ECA80D8A51}.Debug|Win32.Build.0 = Debug|Win32
 		{013BA1C0-B69F-4318-A6E7-A3ECA80D8A51}.Release|Win32.ActiveCfg = Release|Win32
 		{013BA1C0-B69F-4318-A6E7-A3ECA80D8A51}.Release|Win32.Build.0 = Release|Win32
-		{5DB2B291-FDB8-4792-BC0C-F3893CC91776}.Debug|Win32.ActiveCfg = Debug|Win32
-		{5DB2B291-FDB8-4792-BC0C-F3893CC91776}.Debug|Win32.Build.0 = Debug|Win32
-		{5DB2B291-FDB8-4792-BC0C-F3893CC91776}.Release|Win32.ActiveCfg = Release|Win32
-		{5DB2B291-FDB8-4792-BC0C-F3893CC91776}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

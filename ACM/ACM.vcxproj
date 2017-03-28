@@ -78,10 +78,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="tmp.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="辅助.xlsm" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\wkDir\in.txt" />
