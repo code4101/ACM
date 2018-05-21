@@ -27,6 +27,8 @@ using namespace std;
 
 #define TRACE(v) cout << #v << ": " << v << "\n";
 
+#define COUT(v) cout << #v << ": " << v << "\n";
+
 #define DEBUG_TAG printf("%s: %d\n", __FILE__, __LINE__);
 
 // encloser: use encloser.begin() char to left, encloser.rbegin() char to right, can be empty
